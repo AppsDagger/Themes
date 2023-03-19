@@ -1,1 +1,10 @@
-
+[
+  {
+    "id": 0,
+    "name": "Antalya",
+    "thumbnail_post_url": "themeswalpaper/ArizonaLizard.webp",
+    "preview_post_url": "themeswalpaper/Bellagio.webp",
+    "walpaper_post_url": "themeswalpaper/Antalya.webp",
+    "isPremium": false
+  },
+]
