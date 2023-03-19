@@ -5,6 +5,16 @@
     "thumbnail_post_url": "themeswalpaper/ArizonaLizard.webp",
     "preview_post_url": "themeswalpaper/Bellagio.webp",
     "walpaper_post_url": "themeswalpaper/Antalya.webp",
+    "type":"photo"
+    "isPremium": false
+  },
+  {
+    "id": 1,
+    "name": "Antalya",
+    "thumbnail_post_url": "themeswalpaper/NarrowStreet.webp",
+    "preview_post_url": "themeswalpaper/Motorbike.webp",
+    "walpaper_post_url": "themeswalpaper/NewYork.webp",
+    "type":"illüstrasyon"
     "isPremium": false
   },
 ]
