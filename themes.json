@@ -110,9 +110,9 @@
    {
     "id": 12,
     "name": "Narrow Stree",
-    "thumbnail_post_url": "themesthumbnail/NarrowStree.webp",
-    "preview_post_url": "themespreview/NarrowStree.webp",
-    "walpaper_post_url": "themeswalpaper/NarrowStree.webp",
+    "thumbnail_post_url": "themesthumbnail/NarrowStreet.webp",
+    "preview_post_url": "themespreview/NarrowStreet.webp",
+    "walpaper_post_url": "themeswalpaper/NarrowStreet.webp",
     "type":"photo",
     "isPremium": false
   },
@@ -226,10 +226,10 @@
   },
    {
     "id": 25,
-    "name": "Veron",
-    "thumbnail_post_url": "themesthumbnail/Veron.webp",
-    "preview_post_url": "themespreview/Veron.webp",
-    "walpaper_post_url": "themeswalpaper/Veron.webp",
+    "name": "Verona",
+    "thumbnail_post_url": "themesthumbnail/Verona.webp",
+    "preview_post_url": "themespreview/Verona.webp",
+    "walpaper_post_url": "themeswalpaper/Verona.webp",
     "type":"photo",
     "isPremium": false
   },
