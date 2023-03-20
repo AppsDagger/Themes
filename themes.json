@@ -1,4 +1,5 @@
-{"themes":[
+{
+ "themes":[
   {
     "id": 0,
     "name": "Antalya",
@@ -259,6 +260,6 @@
     "walpaper_post_url": "themeswalpaper/Wosvos.webp",
     "type":"photo",
     "isPremium": false
-  }
-]
+    }
+  ]
 }
