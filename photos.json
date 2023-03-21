@@ -98,7 +98,7 @@
   },
    {
     "id": 12,
-    "name": "Narrow Stree",
+    "name": "Narrow Street",
     "thumbnail_post_url": "themesthumbnail/NarrowStreet.webp",
     "preview_post_url": "themespreview/NarrowStreet.webp",
     "walpaper_post_url": "themeswalpaper/NarrowStreet.webp",
@@ -106,10 +106,10 @@
   },
    {
     "id": 13,
-    "name": "New York",
-    "thumbnail_post_url": "themesthumbnail/NewYork.webp",
-    "preview_post_url": "themespreview/NewYork.webp",
-    "walpaper_post_url": "themeswalpaper/NewYork.webp",
+    "name": "Amalfi Coast",
+    "thumbnail_post_url": "themesthumbnail/AmalfiCoast.webp",
+    "preview_post_url": "themespreview/AmalfiCoast.webp",
+    "walpaper_post_url": "themeswalpaper/AmalfiCoast.webp",
     "isPremium": true
   },
    {
