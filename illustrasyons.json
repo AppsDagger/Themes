@@ -1,0 +1,22 @@
+{
+    "photos":[
+     {
+       "id": 0,
+       "name": "desert",
+       "thumbnail_post_url": "illustrasyonsthumbnail/Desert.webp",
+       "preview_post_url": "illustrasyonspreview/Desert.webp",
+       "walpaper_post_url": "illustrasyonswalpaper/Desert.webp",
+       "primaryColor":0,
+       "isPremium":true
+     },
+      {
+       "id": 1,
+       "name": "green",
+       "thumbnail_post_url": "illustrasyonsthumbnail/Green.webp",
+       "preview_post_url": "illustrasyonspreview/Green.webp",
+       "walpaper_post_url": "illustrasyonswalpaper/Green.webp",
+        "primaryColor":3,
+       "isPremium": true
+     }
+     ]
+   }
