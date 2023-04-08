@@ -2,7 +2,7 @@
     "illustrasyons":[
      {
        "id": 0,
-       "name": "desert",
+       "name": "Desert",
        "thumbnail_post_url": "illustrasyonsthumbnail/Desert.webp",
        "preview_post_url": "illustrasyonspreview/Desert.webp",
        "walpaper_post_url": "illustrasyonswalpaper/Desert.webp",
@@ -11,7 +11,7 @@
      },
       {
        "id": 1,
-       "name": "green",
+       "name": "Green",
        "thumbnail_post_url": "illustrasyonsthumbnail/Green.webp",
        "preview_post_url": "illustrasyonspreview/Green.webp",
        "walpaper_post_url": "illustrasyonswalpaper/Green.webp",
