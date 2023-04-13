@@ -7,7 +7,7 @@
        "thumbnail_post_url": "illustrasyonsthumbnail/Desert.webp",
        "preview_post_url": "illustrasyonspreview/Desert.webp",
        "walpaper_post_url": "illustrasyonswalpaper/Desert.webp",
-       "primaryColor":0,
+       "primaryColor":1,
        "isPremium":true
      },
       {
@@ -25,7 +25,7 @@
        "thumbnail_post_url": "illustrasyonsthumbnail/Forest.webp",
        "preview_post_url": "illustrasyonspreview/Forest.webp",
        "walpaper_post_url": "illustrasyonswalpaper/Forest.webp",
-        "primaryColor":3,
+        "primaryColor":5,
        "isPremium": true
      },
       {
@@ -43,7 +43,7 @@
        "thumbnail_post_url": "illustrasyonsthumbnail/Moonlight.webp",
        "preview_post_url": "illustrasyonspreview/Moonlight.webp",
        "walpaper_post_url": "illustrasyonswalpaper/Moonlight.webp",
-        "primaryColor":3,
+        "primaryColor":11,
        "isPremium": true
      },
       {
