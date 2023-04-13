@@ -11,10 +11,46 @@
      },
       {
        "id": 1,
+       "name": "Flower",
+       "thumbnail_post_url": "illustrasyonsthumbnail/Flower.webp",
+       "preview_post_url": "illustrasyonspreview/Flower.webp",
+       "walpaper_post_url": "illustrasyonswalpaper/Flower.webp",
+        "primaryColor":3,
+       "isPremium": true
+     },
+      {
+       "id": 2,
+       "name": "Forest",
+       "thumbnail_post_url": "illustrasyonsthumbnail/Forest.webp",
+       "preview_post_url": "illustrasyonspreview/Forest.webp",
+       "walpaper_post_url": "illustrasyonswalpaper/Forest.webp",
+        "primaryColor":3,
+       "isPremium": true
+     },
+      {
+       "id": 3,
        "name": "Green",
        "thumbnail_post_url": "illustrasyonsthumbnail/Green.webp",
        "preview_post_url": "illustrasyonspreview/Green.webp",
        "walpaper_post_url": "illustrasyonswalpaper/Green.webp",
+        "primaryColor":3,
+       "isPremium": true
+     },
+      {
+       "id": 4,
+       "name": "Moonlight",
+       "thumbnail_post_url": "illustrasyonsthumbnail/Moonlight.webp",
+       "preview_post_url": "illustrasyonspreview/Moonlight.webp",
+       "walpaper_post_url": "illustrasyonswalpaper/Moonlight.webp",
+        "primaryColor":3,
+       "isPremium": true
+     },
+      {
+       "id": 5,
+       "name": "Rural Area",
+       "thumbnail_post_url": "illustrasyonsthumbnail/RuralArea.webp",
+       "preview_post_url": "illustrasyonspreview/RuralArea.webp",
+       "walpaper_post_url": "illustrasyonswalpaper/RuralArea.webp",
         "primaryColor":3,
        "isPremium": true
      }
