@@ -6,7 +6,7 @@
        "name": "Desert",
        "thumbnail_post_url": "illustrasyonsthumbnail/Desert.webp",
        "preview_post_url": "illustrasyonspreview/Desert.webp",
-       "walpaper_post_url": "illustrasyonswalpaper/Desert.webp",
+       "walpaper_post_url": "illustrasyonswallpaper/Desert.webp",
        "primaryColor":1,
        "isPremium":true
      },
@@ -15,7 +15,7 @@
        "name": "Flower",
        "thumbnail_post_url": "illustrasyonsthumbnail/Flower.webp",
        "preview_post_url": "illustrasyonspreview/Flower.webp",
-       "walpaper_post_url": "illustrasyonswalpaper/Flower.webp",
+       "walpaper_post_url": "illustrasyonswallpaper/Flower.webp",
         "primaryColor":3,
        "isPremium": true
      },
@@ -24,7 +24,7 @@
        "name": "Forest",
        "thumbnail_post_url": "illustrasyonsthumbnail/Forest.webp",
        "preview_post_url": "illustrasyonspreview/Forest.webp",
-       "walpaper_post_url": "illustrasyonswalpaper/Forest.webp",
+       "walpaper_post_url": "illustrasyonswallpaper/Forest.webp",
         "primaryColor":5,
        "isPremium": true
      },
@@ -33,7 +33,7 @@
        "name": "Green",
        "thumbnail_post_url": "illustrasyonsthumbnail/Green.webp",
        "preview_post_url": "illustrasyonspreview/Green.webp",
-       "walpaper_post_url": "illustrasyonswalpaper/Green.webp",
+       "walpaper_post_url": "illustrasyonswallpaper/Green.webp",
         "primaryColor":3,
        "isPremium": true
      },
@@ -42,7 +42,7 @@
        "name": "Moonlight",
        "thumbnail_post_url": "illustrasyonsthumbnail/Moonlight.webp",
        "preview_post_url": "illustrasyonspreview/Moonlight.webp",
-       "walpaper_post_url": "illustrasyonswalpaper/Moonlight.webp",
+       "walpaper_post_url": "illustrasyonswallpaper/Moonlight.webp",
         "primaryColor":11,
        "isPremium": true
      },
@@ -51,7 +51,7 @@
        "name": "Rural Area",
        "thumbnail_post_url": "illustrasyonsthumbnail/RuralArea.webp",
        "preview_post_url": "illustrasyonspreview/RuralArea.webp",
-       "walpaper_post_url": "illustrasyonswalpaper/RuralArea.webp",
+       "walpaper_post_url": "illustrasyonswallpaper/RuralArea.webp",
         "primaryColor":3,
        "isPremium": true
      }
