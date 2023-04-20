@@ -9,7 +9,8 @@
     "preview_post_url": "photospreview/Antalya.webp",
     "walpaper_post_url": "photoswalpaper/Antalya.webp",
     "primaryColor":5,
-    "isPremium":true
+    "isPremiumAndroid":false,
+    "isPremiumIOS":true
   },
    {
     "id": 1,
@@ -17,8 +18,9 @@
     "thumbnail_post_url": "photosthumbnail/ArizonaLizard.webp",
     "preview_post_url": "photospreview/ArizonaLizard.webp",
     "walpaper_post_url": "photoswalpaper/ArizonaLizard.webp",
-     "primaryColor":3,
-    "isPremium": true
+    "primaryColor":3,
+    "isPremiumAndroid":false,
+    "isPremiumIOS":true
   },
    {
     "id": 2,
@@ -27,7 +29,8 @@
     "preview_post_url": "photospreview/Bellagio.webp",
     "walpaper_post_url": "photoswalpaper/Bellagio.webp",
     "primaryColor":9,
-    "isPremium": true
+    "isPremiumAndroid":false,
+    "isPremiumIOS":true
   },
    {
     "id": 3,
@@ -36,7 +39,8 @@
     "preview_post_url": "photospreview/BurjKhalifa.webp",
     "walpaper_post_url": "photoswalpaper/BurjKhalifa.webp",
     "primaryColor":6,
-    "isPremium": true
+    "isPremiumAndroid":false,
+    "isPremiumIOS":true
   },
    {
     "id": 4,
@@ -45,7 +49,8 @@
     "preview_post_url": "photospreview/Eiffel.webp",
     "walpaper_post_url": "photoswalpaper/Eiffel.webp",
     "primaryColor":1,
-    "isPremium": true
+    "isPremiumAndroid":false,
+    "isPremiumIOS":true
   },
    {
     "id": 5,
@@ -54,7 +59,8 @@
     "preview_post_url": "photospreview/FaroeIslands.webp",
     "walpaper_post_url": "photoswalpaper/FaroeIslands.webp",
     "primaryColor":0,
-    "isPremium": true
+    "isPremiumAndroid":false,
+    "isPremiumIOS":true
   },
    {
     "id": 6,
@@ -63,7 +69,8 @@
     "preview_post_url": "photospreview/Kabukicho.webp",
     "walpaper_post_url": "photoswalpaper/Kabukicho.webp",
     "primaryColor":2,
-    "isPremium": true
+    "isPremiumAndroid":false,
+    "isPremiumIOS":true
   },
    {
     "id": 7,
@@ -72,7 +79,8 @@
     "preview_post_url": "photospreview/LightBridge.webp",
     "walpaper_post_url": "photoswalpaper/LightBridge.webp",
     "primaryColor":3,
-    "isPremium": true
+    "isPremiumAndroid":false,
+    "isPremiumIOS":true
   },
    {
     "id": 8,
@@ -81,7 +89,8 @@
     "preview_post_url": "photospreview/Lighthouse.webp",
     "walpaper_post_url": "photoswalpaper/Lighthouse.webp",
     "primaryColor":4,
-    "isPremium": true
+    "isPremiumAndroid":false,
+    "isPremiumIOS":true
   },
    {
     "id": 9,
@@ -90,7 +99,8 @@
     "preview_post_url": "photospreview/London.webp",
     "walpaper_post_url": "photoswalpaper/London.webp",
     "primaryColor":6,
-    "isPremium": true
+    "isPremiumAndroid":false,
+    "isPremiumIOS":true
   },
    {
     "id": 10,
@@ -99,7 +109,8 @@
     "preview_post_url": "photospreview/Moon.webp",
     "walpaper_post_url": "photoswalpaper/Moon.webp",
     "primaryColor":7,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 11,
@@ -108,7 +119,8 @@
     "preview_post_url": "photospreview/Motorbike.webp",
     "walpaper_post_url": "photoswalpaper/Motorbike.webp",
     "primaryColor":10,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 12,
@@ -117,7 +129,8 @@
     "preview_post_url": "photospreview/NarrowStreet.webp",
     "walpaper_post_url": "photoswalpaper/NarrowStreet.webp",
     "primaryColor":11,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 13,
@@ -126,7 +139,8 @@
     "preview_post_url": "photospreview/AmalfiCoast.webp",
     "walpaper_post_url": "photoswalpaper/AmalfiCoast.webp",
     "primaryColor":3,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 14,
@@ -135,7 +149,8 @@
     "preview_post_url": "photospreview/NightWithStars.webp",
     "walpaper_post_url": "photoswalpaper/NightWithStars.webp",
     "primaryColor":7,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 15,
@@ -144,7 +159,8 @@
     "preview_post_url": "photospreview/Ortakoy.webp",
     "walpaper_post_url": "photoswalpaper/Ortakoy.webp",
     "primaryColor":11,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 16,
@@ -153,7 +169,8 @@
     "preview_post_url": "photospreview/Palm.webp",
     "walpaper_post_url": "photoswalpaper/Palm.webp",
     "primaryColor":10,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 17,
@@ -162,7 +179,8 @@
     "preview_post_url": "photospreview/PalmAndMoon.webp",
     "walpaper_post_url": "photoswalpaper/PalmAndMoon.webp",
     "primaryColor":9,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 18,
@@ -171,7 +189,8 @@
     "preview_post_url": "photospreview/SanFrancisco.webp",
     "walpaper_post_url": "photoswalpaper/SanFrancisco.webp",
     "primaryColor":1,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 19,
@@ -180,7 +199,8 @@
     "preview_post_url": "photospreview/SnowyNight.webp",
     "walpaper_post_url": "photoswalpaper/SnowyNight.webp",
     "primaryColor":3,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 20,
@@ -189,7 +209,8 @@
     "preview_post_url": "photospreview/StreetLamp.webp",
     "walpaper_post_url": "photoswalpaper/StreetLamp.webp",
     "primaryColor":7,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 21,
@@ -198,7 +219,8 @@
     "preview_post_url": "photospreview/Sunset.webp",
     "walpaper_post_url": "photoswalpaper/Sunset.webp",
     "primaryColor":4,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 22,
@@ -207,7 +229,8 @@
     "preview_post_url": "photospreview/TheMoon.webp",
     "walpaper_post_url": "photoswalpaper/TheMoon.webp",
     "primaryColor":9,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 23,
@@ -216,7 +239,8 @@
     "preview_post_url": "photospreview/ThemePark.webp",
     "walpaper_post_url": "photoswalpaper/ThemePark.webp",
     "primaryColor":12,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 24,
@@ -225,7 +249,8 @@
     "preview_post_url": "photospreview/Venice.webp",
     "walpaper_post_url": "photoswalpaper/Venice.webp",
     "primaryColor":10,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 25,
@@ -234,7 +259,8 @@
     "preview_post_url": "photospreview/Verona.webp",
     "walpaper_post_url": "photoswalpaper/Verona.webp",
     "primaryColor":8,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 26,
@@ -243,7 +269,8 @@
     "preview_post_url": "photospreview/VintageCar.webp",
     "walpaper_post_url": "photoswalpaper/VintageCar.webp",
     "primaryColor":12,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 27,
@@ -252,7 +279,8 @@
     "preview_post_url": "photospreview/Warsaw.webp",
     "walpaper_post_url": "photoswalpaper/Warsaw.webp",
     "primaryColor":11,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
   },
    {
     "id": 28,
@@ -261,7 +289,8 @@
     "preview_post_url": "photospreview/Wosvos.webp",
     "walpaper_post_url": "photoswalpaper/Wosvos.webp",
     "primaryColor":0,
-    "isPremium": true
+    "isPremiumAndroid":true,
+    "isPremiumIOS":true
     }
   ]
 }
