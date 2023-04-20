@@ -8,7 +8,8 @@
        "preview_post_url": "illustrasyonspreview/Desert.webp",
        "walpaper_post_url": "illustrasyonswallpaper/Desert.webp",
        "primaryColor":1,
-       "isPremium":true
+       "isPremiumAndroid":false,
+       "isPremiumIOS":true
      },
       {
        "id": 1,
@@ -16,8 +17,9 @@
        "thumbnail_post_url": "illustrasyonsthumbnail/Flower.webp",
        "preview_post_url": "illustrasyonspreview/Flower.webp",
        "walpaper_post_url": "illustrasyonswallpaper/Flower.webp",
-        "primaryColor":3,
-       "isPremium": true
+       "primaryColor":3,
+       "isPremiumAndroid":false,
+       "isPremiumIOS":true
      },
       {
        "id": 2,
@@ -25,8 +27,9 @@
        "thumbnail_post_url": "illustrasyonsthumbnail/Forest.webp",
        "preview_post_url": "illustrasyonspreview/Forest.webp",
        "walpaper_post_url": "illustrasyonswallpaper/Forest.webp",
-        "primaryColor":5,
-       "isPremium": true
+       "primaryColor":5,
+       "isPremiumAndroid":true,
+       "isPremiumIOS":true
      },
       {
        "id": 3,
@@ -34,8 +37,9 @@
        "thumbnail_post_url": "illustrasyonsthumbnail/Green.webp",
        "preview_post_url": "illustrasyonspreview/Green.webp",
        "walpaper_post_url": "illustrasyonswallpaper/Green.webp",
-        "primaryColor":3,
-       "isPremium": true
+       "primaryColor":3,
+       "isPremiumAndroid":true,
+       "isPremiumIOS":true
      },
       {
        "id": 4,
@@ -43,8 +47,9 @@
        "thumbnail_post_url": "illustrasyonsthumbnail/Moonlight.webp",
        "preview_post_url": "illustrasyonspreview/Moonlight.webp",
        "walpaper_post_url": "illustrasyonswallpaper/Moonlight.webp",
-        "primaryColor":11,
-       "isPremium": true
+       "primaryColor":11,
+       "isPremiumAndroid":true,
+       "isPremiumIOS":true
      },
       {
        "id": 5,
@@ -52,8 +57,9 @@
        "thumbnail_post_url": "illustrasyonsthumbnail/RuralArea.webp",
        "preview_post_url": "illustrasyonspreview/RuralArea.webp",
        "walpaper_post_url": "illustrasyonswallpaper/RuralArea.webp",
-        "primaryColor":3,
-       "isPremium": true
+       "primaryColor":3,
+       "isPremiumAndroid":true,
+       "isPremiumIOS":true
      }
      ]
    }
