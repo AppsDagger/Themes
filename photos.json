@@ -1,6 +1,6 @@
 {
  
- "version": "0.0.1",
+ "version": "0.0.2",
  "photos":[
   {
     "id": 0,
@@ -109,7 +109,7 @@
     "preview_post_url": "photospreview/Moon.webp",
     "walpaper_post_url": "photoswalpaper/Moon.webp",
     "primaryColor":7,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -119,7 +119,7 @@
     "preview_post_url": "photospreview/Motorbike.webp",
     "walpaper_post_url": "photoswalpaper/Motorbike.webp",
     "primaryColor":10,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -129,7 +129,7 @@
     "preview_post_url": "photospreview/NarrowStreet.webp",
     "walpaper_post_url": "photoswalpaper/NarrowStreet.webp",
     "primaryColor":11,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -139,7 +139,7 @@
     "preview_post_url": "photospreview/AmalfiCoast.webp",
     "walpaper_post_url": "photoswalpaper/AmalfiCoast.webp",
     "primaryColor":3,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -149,7 +149,7 @@
     "preview_post_url": "photospreview/NightWithStars.webp",
     "walpaper_post_url": "photoswalpaper/NightWithStars.webp",
     "primaryColor":7,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -159,7 +159,7 @@
     "preview_post_url": "photospreview/Ortakoy.webp",
     "walpaper_post_url": "photoswalpaper/Ortakoy.webp",
     "primaryColor":11,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -169,7 +169,7 @@
     "preview_post_url": "photospreview/Palm.webp",
     "walpaper_post_url": "photoswalpaper/Palm.webp",
     "primaryColor":10,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -179,7 +179,7 @@
     "preview_post_url": "photospreview/PalmAndMoon.webp",
     "walpaper_post_url": "photoswalpaper/PalmAndMoon.webp",
     "primaryColor":9,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -189,7 +189,7 @@
     "preview_post_url": "photospreview/SanFrancisco.webp",
     "walpaper_post_url": "photoswalpaper/SanFrancisco.webp",
     "primaryColor":1,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -199,7 +199,7 @@
     "preview_post_url": "photospreview/SnowyNight.webp",
     "walpaper_post_url": "photoswalpaper/SnowyNight.webp",
     "primaryColor":3,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -209,7 +209,7 @@
     "preview_post_url": "photospreview/StreetLamp.webp",
     "walpaper_post_url": "photoswalpaper/StreetLamp.webp",
     "primaryColor":7,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -219,7 +219,7 @@
     "preview_post_url": "photospreview/Sunset.webp",
     "walpaper_post_url": "photoswalpaper/Sunset.webp",
     "primaryColor":4,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -229,7 +229,7 @@
     "preview_post_url": "photospreview/TheMoon.webp",
     "walpaper_post_url": "photoswalpaper/TheMoon.webp",
     "primaryColor":9,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -239,7 +239,7 @@
     "preview_post_url": "photospreview/ThemePark.webp",
     "walpaper_post_url": "photoswalpaper/ThemePark.webp",
     "primaryColor":12,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -249,7 +249,7 @@
     "preview_post_url": "photospreview/Venice.webp",
     "walpaper_post_url": "photoswalpaper/Venice.webp",
     "primaryColor":10,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -259,7 +259,7 @@
     "preview_post_url": "photospreview/Verona.webp",
     "walpaper_post_url": "photoswalpaper/Verona.webp",
     "primaryColor":8,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -269,7 +269,7 @@
     "preview_post_url": "photospreview/VintageCar.webp",
     "walpaper_post_url": "photoswalpaper/VintageCar.webp",
     "primaryColor":12,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -279,7 +279,7 @@
     "preview_post_url": "photospreview/Warsaw.webp",
     "walpaper_post_url": "photoswalpaper/Warsaw.webp",
     "primaryColor":11,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
   },
    {
@@ -289,7 +289,7 @@
     "preview_post_url": "photospreview/Wosvos.webp",
     "walpaper_post_url": "photoswalpaper/Wosvos.webp",
     "primaryColor":0,
-    "isPremiumAndroid":true,
+    "isPremiumAndroid":false,
     "isPremiumIOS":true
     }
   ]
