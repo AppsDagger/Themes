@@ -1,5 +1,5 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "illustrasyons":[
      {
        "id": 0,
@@ -28,7 +28,7 @@
        "preview_post_url": "illustrasyonspreview/Forest.webp",
        "walpaper_post_url": "illustrasyonswallpaper/Forest.webp",
        "primaryColor":5,
-       "isPremiumAndroid":true,
+       "isPremiumAndroid":false,
        "isPremiumIOS":true
      },
       {
@@ -38,7 +38,7 @@
        "preview_post_url": "illustrasyonspreview/Green.webp",
        "walpaper_post_url": "illustrasyonswallpaper/Green.webp",
        "primaryColor":3,
-       "isPremiumAndroid":true,
+       "isPremiumAndroid":false,
        "isPremiumIOS":true
      },
       {
@@ -48,7 +48,7 @@
        "preview_post_url": "illustrasyonspreview/Moonlight.webp",
        "walpaper_post_url": "illustrasyonswallpaper/Moonlight.webp",
        "primaryColor":11,
-       "isPremiumAndroid":true,
+       "isPremiumAndroid":false,
        "isPremiumIOS":true
      },
       {
@@ -58,7 +58,7 @@
        "preview_post_url": "illustrasyonspreview/RuralArea.webp",
        "walpaper_post_url": "illustrasyonswallpaper/RuralArea.webp",
        "primaryColor":3,
-       "isPremiumAndroid":true,
+       "isPremiumAndroid":false,
        "isPremiumIOS":true
      }
      ]
